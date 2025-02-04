@@ -1,0 +1,14 @@
+//
+// Created by PC on 1/22/2025.
+//
+
+#ifndef SIMPLE_CALCULATOR_SORTLINKEDLIST_H
+#define SIMPLE_CALCULATOR_SORTLINKEDLIST_H
+
+
+class SortLinkedlist {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_SORTLINKEDLIST_H

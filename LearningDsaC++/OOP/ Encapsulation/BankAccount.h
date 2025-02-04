@@ -1,0 +1,14 @@
+//
+// Created by PC on 12/4/2024.
+//
+
+#ifndef SIMPLE_CALCULATOR_BANKACCOUNT_H
+#define SIMPLE_CALCULATOR_BANKACCOUNT_H
+
+
+class BankAccount {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_BANKACCOUNT_H

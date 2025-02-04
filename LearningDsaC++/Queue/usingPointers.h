@@ -1,0 +1,14 @@
+//
+// Created by PC on 1/30/2025.
+//
+
+#ifndef SIMPLE_CALCULATOR_USINGPOINTERS_H
+#define SIMPLE_CALCULATOR_USINGPOINTERS_H
+
+
+class usingPointers {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_USINGPOINTERS_H

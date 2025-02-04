@@ -1,0 +1,14 @@
+//
+// Created by PC on 12/4/2024.
+//
+
+#ifndef SIMPLE_CALCULATOR_POWEROFNUMBER_H
+#define SIMPLE_CALCULATOR_POWEROFNUMBER_H
+
+
+class powerOfNumber {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_POWEROFNUMBER_H

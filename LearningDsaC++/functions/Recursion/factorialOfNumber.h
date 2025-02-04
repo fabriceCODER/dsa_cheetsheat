@@ -1,0 +1,14 @@
+//
+// Created by PC on 12/4/2024.
+//
+
+#ifndef SIMPLE_CALCULATOR_FACTORIALOFNUMBER_H
+#define SIMPLE_CALCULATOR_FACTORIALOFNUMBER_H
+
+
+class factorialOfNumber {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_FACTORIALOFNUMBER_H

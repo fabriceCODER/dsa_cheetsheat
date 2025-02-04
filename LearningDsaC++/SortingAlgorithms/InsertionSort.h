@@ -1,0 +1,14 @@
+//
+// Created by PC on 12/12/2024.
+//
+
+#ifndef SIMPLE_CALCULATOR_INSERTIONSORT_H
+#define SIMPLE_CALCULATOR_INSERTIONSORT_H
+
+
+class InsertionSort {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_INSERTIONSORT_H

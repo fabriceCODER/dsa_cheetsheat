@@ -1,0 +1,14 @@
+//
+// Created by PC on 2/12/2025.
+//
+
+#ifndef SIMPLE_CALCULATOR_STACKLINKEDLIST_H
+#define SIMPLE_CALCULATOR_STACKLINKEDLIST_H
+
+
+class StackLinkedlist {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_STACKLINKEDLIST_H

@@ -6,11 +6,9 @@
 #define SIMPLE_CALCULATOR_QUEUE12_H
 
 
-
 class Queue12 {
 
 };
-
 
 
 #endif //SIMPLE_CALCULATOR_QUEUE12_H

@@ -6,11 +6,9 @@
 #define SIMPLE_CALCULATOR_QUUELINKEDLIST_H
 
 
-
 class QuueLinkedlist {
 
 };
-
 
 
 #endif //SIMPLE_CALCULATOR_QUUELINKEDLIST_H

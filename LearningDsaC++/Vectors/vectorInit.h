@@ -1,0 +1,14 @@
+//
+// Created by PC on 3/13/2025.
+//
+
+#ifndef SIMPLE_CALCULATOR_VECTORINIT_H
+#define SIMPLE_CALCULATOR_VECTORINIT_H
+
+
+class vectorInit {
+
+};
+
+
+#endif //SIMPLE_CALCULATOR_VECTORINIT_H
